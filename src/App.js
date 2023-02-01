@@ -5,7 +5,7 @@ import SingleProduct from "./SingleProduct";
 function App() {
   return (
     <div className="App">
-      <Header></Header>
+      {/* <Header></Header> */}
       <SingleProduct></SingleProduct>
       <Footer></Footer>
     </div>
